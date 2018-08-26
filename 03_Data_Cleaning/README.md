@@ -1,9 +1,9 @@
-Getting and Cleaning Data - Programming Assignment
+#Getting and Cleaning Data - Programming Assignment
 
 Author: Raquel Rios
 
 
-Objectives
+##Objectives
 
 To demonstrate ability to collect, work with, and clean a data set by submitting:
 
@@ -11,7 +11,7 @@ To demonstrate ability to collect, work with, and clean a data set by submitting
 	2) a link to  Github repository with script for performing the analysis, and
 	3) a code book that describes the variables, the data, and any transformations or work performed to clean up the data. 
 	
-Data
+##Data
 
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -22,7 +22,7 @@ Here are the data for the assignment:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-Assignment
+##Assignment
 
 Student have to create one R script called run_analysis.R that does the following:
 * Merges the training and the test sets to create one data set.
@@ -32,13 +32,11 @@ Student have to create one R script called run_analysis.R that does the followin
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Files
+##Files
 
--Analysis R Script: run_analysis.R (link)
+*Analysis R Script: run_analysis.R
 
--Tidy Data Set (link)
+*Tidy Data Set: tidy_average_data.txt
 
--Github Repo: Repo link
-
--Code book: link
+*Code book: codebook.md
 
